@@ -6,3 +6,10 @@
 Thumbs.db
 # 忽略 macOS 系统文件
 .DS_Store
+# 忽略 Node.js 依赖
+node_modules/
+# 忽略导出脚本和生成的 SQL 文件
+export-sql.js
+tourism_data_dump.sql
+# 忽略 npm 配置文件
+package-lock.json
