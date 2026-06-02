@@ -11,5 +11,7 @@ node_modules/
 # 忽略导出脚本和生成的 SQL 文件
 export-sql.js
 tourism_data_dump.sql
+migrate-to-mysql.js
+tourism_data_mysql.sql
 # 忽略 npm 配置文件
 package-lock.json
